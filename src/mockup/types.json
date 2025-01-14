@@ -1,0 +1,99 @@
+[
+  {
+    "name": "normal",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/1.png"
+    }
+  },
+  {
+    "name": "fighting",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/2.png"
+    }
+  },
+  {
+    "name": "flying",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/3.png"
+    }
+  },
+  {
+    "name": "poison",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/4.png"
+    }
+  },
+  {
+    "name": "ground",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/5.png"
+    }
+  },
+  {
+    "name": "rock",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/6.png"
+    }
+  },
+  {
+    "name": "bug",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/7.png"
+    }
+  },
+  {
+    "name": "ghost",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/8.png"
+    }
+  },
+  {
+    "name": "steel",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/9.png"
+    }
+  },
+  {
+    "name": "fire",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/10.png"
+    },
+    "colors":["FF3737","FFC080"]
+  },
+  {
+    "name": "water",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/11.png"
+    }
+  },
+  {
+    "name": "grass",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/12.png"
+    }
+  },
+  {
+    "name": "electric",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/13.png"
+    }
+  },
+  {
+    "name": "psychic",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/14.png"
+    }
+  },
+  {
+    "name": "ice",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/15.png"
+    }
+  },
+  {
+    "name": "dragon",
+    "sprite": {
+      "name_icon": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-iii/emerald/16.png"
+    }
+  }
+]

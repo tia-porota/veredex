@@ -1,0 +1,2184 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/1.ogg"
+  },
+  {
+    "id": 2,
+    "name": "ivysaur",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/2.ogg"
+  },
+  {
+    "id": 3,
+    "name": "venusaur",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/3.ogg"
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/4.ogg"
+  },
+  {
+    "id": 5,
+    "name": "charmeleon",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/5.ogg"
+  },
+  {
+    "id": 6,
+    "name": "charizard",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/6.ogg"
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/7.ogg"
+  },
+  {
+    "id": 8,
+    "name": "wartortle",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/8.ogg"
+  },
+  {
+    "id": 9,
+    "name": "blastoise",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/9.ogg"
+  },
+  {
+    "id": 10,
+    "name": "caterpie",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/10.ogg"
+  },
+  {
+    "id": 11,
+    "name": "metapod",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/11.ogg"
+  },
+  {
+    "id": 12,
+    "name": "butterfree",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/12.ogg"
+  },
+  {
+    "id": 13,
+    "name": "weedle",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/13.ogg"
+  },
+  {
+    "id": 14,
+    "name": "kakuna",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/14.ogg"
+  },
+  {
+    "id": 15,
+    "name": "beedrill",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/15.ogg"
+  },
+  {
+    "id": 16,
+    "name": "pidgey",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/16.ogg"
+  },
+  {
+    "id": 17,
+    "name": "pidgeotto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/17.ogg"
+  },
+  {
+    "id": 18,
+    "name": "pidgeot",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/18.ogg"
+  },
+  {
+    "id": 19,
+    "name": "rattata",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/19.ogg"
+  },
+  {
+    "id": 20,
+    "name": "raticate",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/20.ogg"
+  },
+  {
+    "id": 21,
+    "name": "spearow",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/21.ogg"
+  },
+  {
+    "id": 22,
+    "name": "fearow",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/22.ogg"
+  },
+  {
+    "id": 23,
+    "name": "ekans",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/23.ogg"
+  },
+  {
+    "id": 24,
+    "name": "arbok",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/24.ogg"
+  },
+  {
+    "id": 25,
+    "name": "pikachu",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/25.ogg"
+  },
+  {
+    "id": 26,
+    "name": "raichu",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/26.ogg"
+  },
+  {
+    "id": 27,
+    "name": "sandshrew",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/27.ogg"
+  },
+  {
+    "id": 28,
+    "name": "sandslash",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/28.ogg"
+  },
+  {
+    "id": 29,
+    "name": "nidoran-f",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/29.ogg"
+  },
+  {
+    "id": 30,
+    "name": "nidorina",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/30.ogg"
+  },
+  {
+    "id": 31,
+    "name": "nidoqueen",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/31.ogg"
+  },
+  {
+    "id": 32,
+    "name": "nidoran-m",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/32.ogg"
+  },
+  {
+    "id": 33,
+    "name": "nidorino",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/33.ogg"
+  },
+  {
+    "id": 34,
+    "name": "nidoking",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/34.ogg"
+  },
+  {
+    "id": 35,
+    "name": "clefairy",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/35.ogg"
+  },
+  {
+    "id": 36,
+    "name": "clefable",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/36.ogg"
+  },
+  {
+    "id": 37,
+    "name": "vulpix",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/37.ogg"
+  },
+  {
+    "id": 38,
+    "name": "ninetales",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/38.ogg"
+  },
+  {
+    "id": 39,
+    "name": "jigglypuff",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/39.ogg"
+  },
+  {
+    "id": 40,
+    "name": "wigglytuff",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/40.ogg"
+  },
+  {
+    "id": 41,
+    "name": "zubat",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/41.ogg"
+  },
+  {
+    "id": 42,
+    "name": "golbat",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/42.ogg"
+  },
+  {
+    "id": 43,
+    "name": "oddish",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/43.ogg"
+  },
+  {
+    "id": 44,
+    "name": "gloom",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/44.ogg"
+  },
+  {
+    "id": 45,
+    "name": "vileplume",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/45.ogg"
+  },
+  {
+    "id": 46,
+    "name": "paras",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/46.ogg"
+  },
+  {
+    "id": 47,
+    "name": "parasect",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/47.ogg"
+  },
+  {
+    "id": 48,
+    "name": "venonat",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/48.ogg"
+  },
+  {
+    "id": 49,
+    "name": "venomoth",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/49.ogg"
+  },
+  {
+    "id": 50,
+    "name": "diglett",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/50.ogg"
+  },
+  {
+    "id": 51,
+    "name": "dugtrio",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/51.ogg"
+  },
+  {
+    "id": 52,
+    "name": "meowth",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/52.ogg"
+  },
+  {
+    "id": 53,
+    "name": "persian",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/53.ogg"
+  },
+  {
+    "id": 54,
+    "name": "psyduck",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/54.ogg"
+  },
+  {
+    "id": 55,
+    "name": "golduck",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/55.ogg"
+  },
+  {
+    "id": 56,
+    "name": "mankey",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/56.ogg"
+  },
+  {
+    "id": 57,
+    "name": "primeape",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/57.ogg"
+  },
+  {
+    "id": 58,
+    "name": "growlithe",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/58.ogg"
+  },
+  {
+    "id": 59,
+    "name": "arcanine",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/59.ogg"
+  },
+  {
+    "id": 60,
+    "name": "poliwag",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/60.ogg"
+  },
+  {
+    "id": 61,
+    "name": "poliwhirl",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/61.ogg"
+  },
+  {
+    "id": 62,
+    "name": "poliwrath",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/62.ogg"
+  },
+  {
+    "id": 63,
+    "name": "abra",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/63.ogg"
+  },
+  {
+    "id": 64,
+    "name": "kadabra",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/64.ogg"
+  },
+  {
+    "id": 65,
+    "name": "alakazam",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/65.ogg"
+  },
+  {
+    "id": 66,
+    "name": "machop",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/66.ogg"
+  },
+  {
+    "id": 67,
+    "name": "machoke",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/67.ogg"
+  },
+  {
+    "id": 68,
+    "name": "machamp",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/68.ogg"
+  },
+  {
+    "id": 69,
+    "name": "bellsprout",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/69.ogg"
+  },
+  {
+    "id": 70,
+    "name": "weepinbell",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/70.ogg"
+  },
+  {
+    "id": 71,
+    "name": "victreebel",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/71.ogg"
+  },
+  {
+    "id": 72,
+    "name": "tentacool",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/72.ogg"
+  },
+  {
+    "id": 73,
+    "name": "tentacruel",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/73.ogg"
+  },
+  {
+    "id": 74,
+    "name": "geodude",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/74.ogg"
+  },
+  {
+    "id": 75,
+    "name": "graveler",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/75.ogg"
+  },
+  {
+    "id": 76,
+    "name": "golem",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/76.ogg"
+  },
+  {
+    "id": 77,
+    "name": "ponyta",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/77.ogg"
+  },
+  {
+    "id": 78,
+    "name": "rapidash",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/78.ogg"
+  },
+  {
+    "id": 79,
+    "name": "slowpoke",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/79.ogg"
+  },
+  {
+    "id": 80,
+    "name": "slowbro",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/80.ogg"
+  },
+  {
+    "id": 81,
+    "name": "magnemite",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "steel", "url": "https://pokeapi.co/api/v2/type/9/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/81.ogg"
+  },
+  {
+    "id": 82,
+    "name": "magneton",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "steel", "url": "https://pokeapi.co/api/v2/type/9/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/82.ogg"
+  },
+  {
+    "id": 83,
+    "name": "farfetchd",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/83.ogg"
+  },
+  {
+    "id": 84,
+    "name": "doduo",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/84.ogg"
+  },
+  {
+    "id": 85,
+    "name": "dodrio",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/85.ogg"
+  },
+  {
+    "id": 86,
+    "name": "seel",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/86.ogg"
+  },
+  {
+    "id": 87,
+    "name": "dewgong",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "ice", "url": "https://pokeapi.co/api/v2/type/15/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/87.ogg"
+  },
+  {
+    "id": 88,
+    "name": "grimer",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/88.ogg"
+  },
+  {
+    "id": 89,
+    "name": "muk",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/89.ogg"
+  },
+  {
+    "id": 90,
+    "name": "shellder",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/90.ogg"
+  },
+  {
+    "id": 91,
+    "name": "cloyster",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "ice", "url": "https://pokeapi.co/api/v2/type/15/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/91.ogg"
+  },
+  {
+    "id": 92,
+    "name": "gastly",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ghost", "url": "https://pokeapi.co/api/v2/type/8/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/92.ogg"
+  },
+  {
+    "id": 93,
+    "name": "haunter",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ghost", "url": "https://pokeapi.co/api/v2/type/8/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/93.ogg"
+  },
+  {
+    "id": 94,
+    "name": "gengar",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ghost", "url": "https://pokeapi.co/api/v2/type/8/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/94.ogg"
+  },
+  {
+    "id": 95,
+    "name": "onix",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/95.ogg"
+  },
+  {
+    "id": 96,
+    "name": "drowzee",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/96.ogg"
+  },
+  {
+    "id": 97,
+    "name": "hypno",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/97.ogg"
+  },
+  {
+    "id": 98,
+    "name": "krabby",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/98.ogg"
+  },
+  {
+    "id": 99,
+    "name": "kingler",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/99.ogg"
+  },
+  {
+    "id": 100,
+    "name": "voltorb",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/100.ogg"
+  },
+  {
+    "id": 101,
+    "name": "electrode",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/101.ogg"
+  },
+  {
+    "id": 102,
+    "name": "exeggcute",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/102.ogg"
+  },
+  {
+    "id": 103,
+    "name": "exeggutor",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/103.ogg"
+  },
+  {
+    "id": 104,
+    "name": "cubone",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/104.ogg"
+  },
+  {
+    "id": 105,
+    "name": "marowak",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/105.ogg"
+  },
+  {
+    "id": 106,
+    "name": "hitmonlee",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/106.ogg"
+  },
+  {
+    "id": 107,
+    "name": "hitmonchan",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/107.ogg"
+  },
+  {
+    "id": 108,
+    "name": "lickitung",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/108.ogg"
+  },
+  {
+    "id": 109,
+    "name": "koffing",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/109.ogg"
+  },
+  {
+    "id": 110,
+    "name": "weezing",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "poison", "url": "https://pokeapi.co/api/v2/type/4/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/110.ogg"
+  },
+  {
+    "id": 111,
+    "name": "rhyhorn",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/111.ogg"
+  },
+  {
+    "id": 112,
+    "name": "rhydon",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ground", "url": "https://pokeapi.co/api/v2/type/5/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/112.ogg"
+  },
+  {
+    "id": 113,
+    "name": "chansey",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/113.ogg"
+  },
+  {
+    "id": 114,
+    "name": "tangela",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "grass", "url": "https://pokeapi.co/api/v2/type/12/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/114.ogg"
+  },
+  {
+    "id": 115,
+    "name": "kangaskhan",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/115.ogg"
+  },
+  {
+    "id": 116,
+    "name": "horsea",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/116.ogg"
+  },
+  {
+    "id": 117,
+    "name": "seadra",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/117.ogg"
+  },
+  {
+    "id": 118,
+    "name": "goldeen",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/118.ogg"
+  },
+  {
+    "id": 119,
+    "name": "seaking",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/119.ogg"
+  },
+  {
+    "id": 120,
+    "name": "staryu",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/120.ogg"
+  },
+  {
+    "id": 121,
+    "name": "starmie",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/121.ogg"
+  },
+  {
+    "id": 122,
+    "name": "mr-mime",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/122.ogg"
+  },
+  {
+    "id": 123,
+    "name": "scyther",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/123.ogg"
+  },
+  {
+    "id": 124,
+    "name": "jynx",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ice", "url": "https://pokeapi.co/api/v2/type/15/" }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/124.ogg"
+  },
+  {
+    "id": 125,
+    "name": "electabuzz",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/125.ogg"
+  },
+  {
+    "id": 126,
+    "name": "magmar",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/126.ogg"
+  },
+  {
+    "id": 127,
+    "name": "pinsir",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "bug", "url": "https://pokeapi.co/api/v2/type/7/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/127.ogg"
+  },
+  {
+    "id": 128,
+    "name": "tauros",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/128.ogg"
+  },
+  {
+    "id": 129,
+    "name": "magikarp",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/129.ogg"
+  },
+  {
+    "id": 130,
+    "name": "gyarados",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/130.ogg"
+  },
+  {
+    "id": 131,
+    "name": "lapras",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "ice", "url": "https://pokeapi.co/api/v2/type/15/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/131.ogg"
+  },
+  {
+    "id": 132,
+    "name": "ditto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/132.ogg"
+  },
+  {
+    "id": 133,
+    "name": "eevee",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/133.ogg"
+  },
+  {
+    "id": 134,
+    "name": "vaporeon",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/134.ogg"
+  },
+  {
+    "id": 135,
+    "name": "jolteon",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/135.ogg"
+  },
+  {
+    "id": 136,
+    "name": "flareon",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/136.ogg"
+  },
+  {
+    "id": 137,
+    "name": "porygon",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/137.ogg"
+  },
+  {
+    "id": 138,
+    "name": "omanyte",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/138.ogg"
+  },
+  {
+    "id": 139,
+    "name": "omastar",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/139.ogg"
+  },
+  {
+    "id": 140,
+    "name": "kabuto",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/140.ogg"
+  },
+  {
+    "id": 141,
+    "name": "kabutops",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "water", "url": "https://pokeapi.co/api/v2/type/11/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/141.ogg"
+  },
+  {
+    "id": 142,
+    "name": "aerodactyl",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "rock", "url": "https://pokeapi.co/api/v2/type/6/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/142.ogg"
+  },
+  {
+    "id": 143,
+    "name": "snorlax",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "normal", "url": "https://pokeapi.co/api/v2/type/1/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/143.ogg"
+  },
+  {
+    "id": 144,
+    "name": "articuno",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "ice", "url": "https://pokeapi.co/api/v2/type/15/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/144.ogg"
+  },
+  {
+    "id": 145,
+    "name": "zapdos",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/145.ogg"
+  },
+  {
+    "id": 146,
+    "name": "moltres",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": { "name": "fire", "url": "https://pokeapi.co/api/v2/type/10/" }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/146.ogg"
+  },
+  {
+    "id": 147,
+    "name": "dratini",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/147.ogg"
+  },
+  {
+    "id": 148,
+    "name": "dragonair",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/148.ogg"
+  },
+  {
+    "id": 149,
+    "name": "dragonite",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": { "name": "flying", "url": "https://pokeapi.co/api/v2/type/3/" }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/149.ogg"
+  },
+  {
+    "id": 150,
+    "name": "mewtwo",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/150.ogg"
+  },
+  {
+    "id": 151,
+    "name": "mew",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "cry": "https://raw.githubusercontent.com/PokeAPI/cries/main/cries/pokemon/legacy/151.ogg"
+  }
+]
