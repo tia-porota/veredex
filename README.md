@@ -5,12 +5,31 @@
 
 A very cool Pokedex/TCG-like site.
 
-You can click on any card and it'll play the sound of that pokemon.
+You can click on any card and it will play the sound of that pokemon.
 
 Featuring search filter by name and types!
 
+---
 
+# Instalation / Modify
+
+Install dependencies
+
+`npm install`
+
+Run project
+
+`npm run dev`
+
+OR run as host
+
+`npm run dev -- --host`
 
 ---
 
 Special thanks to [SimplyBLG](https://www.github.com/simplyblgdev) <3
+
+---
+
+# License 
+[GPL 3](https://choosealicense.com/licenses/gpl-3.0/)
