@@ -7,7 +7,7 @@ import Footer from "./footer";
 import { FilterProvider } from './context/filterContext'
 import Index from '.'
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
+  <BrowserRouter basename='/veredex/'>
   <StrictMode >
     <>
     <Routes>
